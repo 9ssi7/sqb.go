@@ -1,4 +1,4 @@
-<p align="center"><br><img src="https://avatars.githubusercontent.com/u/76786120?v=4" width="128" height="128" style="border-radius: 50px;" /></p>
+<p align="center"><br><img src="https://gitlab.com/uploads/-/system/project/avatar/42801815/SQL.png?width=64" width="128" height="128" style="border-radius: 50px;" /></p>
 <h3 align="center">sqb.go</h3>
 <p align="center">
   Sql Query Builder for Go
